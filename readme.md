@@ -1,0 +1,1 @@
+After deploy need execute on sql /resources/import.sql
